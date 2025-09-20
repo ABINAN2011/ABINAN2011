@@ -12,10 +12,9 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100089834836102) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_abi_nan_18_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketheeswaran-abinan-aaa677267/) 
 
 # 📊 GitHub Stats:
-<div align="center">
-  <img width="45%" height="250px"src="https://github-readme-stats.vercel.app/api?username=ABINAN2011&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="45%" height="250px" src="https://github-readme-streak-stats.herokuapp.com/?user=ABINAN2011&theme=dark&hide_border=true" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=ABINAN2011&theme=tokyonight&hide_border=false&include_all_commits=True&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ABINAN2011&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ABINAN2011&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br/>
 
@@ -29,14 +28,8 @@
 
 
 
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ABINAN2011&theme=dark&no-frame=true&no-bg=false&margin-w=4)
-
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ABINAN2011&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ABINAN2011&limit=5&theme=dark&combine_all_yearly_contributions=false)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ABINAN2011&icon=6&color=0)](https://visitcount.itsvg.in)
