@@ -33,6 +33,7 @@
   <img alt="SQL" src="https://img.shields.io/badge/SQL-%230074C1.svg?style=for-the-badge&logo=database&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 ---
@@ -65,7 +66,6 @@
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%23FF5722.svg?style=for-the-badge&logo=opencv&logoColor=white" />
   <img alt="YOLOv8" src="https://img.shields.io/badge/YOLOv8-%23007ACC.svg?style=for-the-badge&logo=opencv&logoColor=white" />
   <img alt="face_recognition" src="https://img.shields.io/badge/face__recognition-003366.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 ---
